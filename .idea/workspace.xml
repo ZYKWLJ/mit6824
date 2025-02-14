@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64e75539-9a8b-4ca8-9e93-7fabd054a3f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/test01/欲测试函数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test01/测试文件_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test02/预测试函数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/回调函数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.check-build" beforeDir="false" afterPath="$PROJECT_DIR$/.check-build" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/raft/raft.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/raft/raft.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/dslogs" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/dslogs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/dstest" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/dstest" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../../4environment/GOSDK" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mit6824_raft" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="jfyavbuh" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Z5D0BGvXU6gazmuelJM2sxQM3q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go Application&quot;,
+    &quot;Go Build.go build course/test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build course/test.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestAge in course/test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/1code/分布式/经典算法/Raft/mit6824_raft/raft-course/raft-course&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/shardkv" />
+      <recent name="$PROJECT_DIR$/src/shardctrler" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\1code\分布式\经典算法\Raft\mit6824_raft_test\raft-course\raft-course\src\test\test01" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="send" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestAge in course/test">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="raft-course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="raft-course" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="raft-course" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build course/test (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="raft-course" />
+      <working_directory value="$PROJECT_DIR$/src" />
+      <kind value="FILE" />
+      <package value="course/test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/test/回调函数.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build course/test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="raft-course" />
+      <working_directory value="$PROJECT_DIR$/src" />
+      <useCustomBuildTags value="true" />
+      <kind value="FILE" />
+      <package value="course/test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/test/test1.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAge in course/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="raft-course" />
+      <working_directory value="$PROJECT_DIR$/src/test" />
+      <root_directory value="$PROJECT_DIR$/src" />
+      <kind value="PACKAGE" />
+      <package value="course/test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestAge\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="raft-course" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestAge in course/test" />
+        <item itemvalue="Go Build.go build course/test" />
+        <item itemvalue="Go Build.go build course/test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-5df93f7ad4aa-df9ad98b711f-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-242.22855.85" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-GO-242.22855.85" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64e75539-9a8b-4ca8-9e93-7fabd054a3f9" name="Changes" comment="" />
+      <created>1701702820185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701702820185</updated>
+      <workItem from="1701702821320" duration="36672000" />
+      <workItem from="1703305582075" duration="54000" />
+      <workItem from="1703305651905" duration="14000" />
+      <workItem from="1703305673018" duration="23000" />
+      <workItem from="1703305816564" duration="56000" />
+      <workItem from="1703411868224" duration="14000" />
+      <workItem from="1703411930531" duration="17000" />
+      <workItem from="1703411961111" duration="30000" />
+      <workItem from="1703412010405" duration="82000" />
+      <workItem from="1703412111052" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
